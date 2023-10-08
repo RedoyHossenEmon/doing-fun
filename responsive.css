@@ -1,0 +1,136 @@
+  @media only screen and (max-width: 768px) {
+.container {
+      width: 92%;}
+  a.logo {
+    margin-left: 10px;
+}
+.textPhn span {
+  padding: 0px 15px 0px 2px;
+}
+.textPhn {
+    width: 265px;
+}
+section#home {
+  height: auto;
+  text-align: center;
+}
+.leftAlign {
+    width: 100%;
+
+}
+.rightAlign img {
+  margin: 0 auto;
+  width: 430px;
+}
+
+.rightAlign {
+    width: 100%;
+    text-align: center;
+
+} 
+
+.fadeInUp {
+  width: 100%;
+  text-align: center;
+}
+.myExp{width: 100%;}
+p.aboutMe {
+  padding: 5px 25px;
+}
+.rowBottom div{width: 56%;}
+.rowBottom div:nth-child(1), .rowBottom div:nth-child(3) {
+  width: 44%;
+}
+p.dital {
+  font-size: 16px;}
+  h2.txtCenter {
+    line-height: 1.2;
+}.doItems {
+  padding: 20px 0px;
+}
+
+.servicesMain {
+    display: block;
+    column-count: 1;
+}
+.rowEducation {
+  display: block;
+  column-count: 1;
+}
+
+.rowEducation div {
+  width: 98%;
+}
+
+p.text-muted {
+  padding-right: 25px;
+}
+.hulfDtls:last-child {
+  margin-left: 0px;
+}
+.sckils .txtCenter {
+  font-size: 32px;
+  font-weight: 500;
+  color: #0d0d0d;
+  text-align: left;
+}
+
+.allSkils {
+  display: block;
+  column-count: 1;
+}
+
+.allSkils div {
+  width: 100%;
+}
+ul.portfolio-menu {
+  overflow: hidden;
+  transform: translate(0);
+  width: 100%;
+  height: 30px;
+  flex-wrap: nowrap;
+  padding: 0;
+}
+li.nav-item {
+  padding: 0px 6px;}
+
+  .singleProt {
+    width: 100%;
+}
+.imgText h1 {
+  width: 85%;
+  margin: auto;
+}
+
+.faqLight {
+  width: 100%;
+}
+
+img.faqImg {
+  width: 100%;
+}
+
+.faqHeader {
+  width: 100%;
+}
+
+
+.leftContact {
+  width: 100%;
+}
+.rightContact {
+  width: 100%;
+}
+.eftFoot {
+  width: 100%;
+}
+.RightFoot {
+  width: 100%;
+}
+footer#footer {
+  height: 70px;
+}
+
+
+
+}
